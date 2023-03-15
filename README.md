@@ -65,17 +65,29 @@
         - Find the average minimum daily temperature for all of the months.
         
         The average low temp for month number 1 is -76.98850574712644.
+
         The average low temp for month number 2 is -76.9090909090909.
+
         The average low temp for month number 3 is -77.34920634920636.
+
         The average low temp for month number 4 is -76.09859154929578.
+
         The average low temp for month number 5 is -75.57342657342657.
+
         The average low temp for month number 6 is -75.67123287671232.
+
         The average low temp for month number 7 is -76.177304964539.
+
         The average low temp for month number 8 is -75.85161290322581.
+
         The average low temp for month number 9 is -75.816091954023.
+
         The average low temp for month number 10 is -75.68508287292818.
+
         The average low temp for month number 11 is -75.5379746835443.
+
         The average low temp for month number 12 is -75.99421965317919.
+        
         - Plot the results as a bar chart.
         
         See Jupyter Notebook file for chart.
@@ -83,17 +95,29 @@
         - Find the average daily atmospheric pressure of all the months.
         
         The average pressure for Martian month 1 is 862.5.
+
         The average pressure for Martian month 2 is 889.5.
+
         The average pressure for Martian month 3 is 877.3.
+
         The average pressure for Martian month 4 is 806.3.
+
         The average pressure for Martian month 5 is 748.6.
+
         The average pressure for Martian month 6 is 745.1.
+
         The average pressure for Martian month 7 is 795.1.
+
         The average pressure for Martian month 8 is 873.8.
+
         The average pressure for Martian month 9 is 913.3.
+
         The average pressure for Martian month 10 is 887.3.
+
         The average pressure for Martian month 11 is 857.0.
+
         The average pressure for Martian month 12 is 842.2.
+
         - Plot the results as a bar chart.
         
         See Jupyter Notebook file for chart.
