@@ -63,6 +63,7 @@
 
     - What are the coldest and the warmest months on Mars (at the location of Curiosity)? To answer this question:
         - Find the average minimum daily temperature for all of the months.
+        
         The average low temp for month number 1 is -76.98850574712644.
         The average low temp for month number 2 is -76.9090909090909.
         The average low temp for month number 3 is -77.34920634920636.
@@ -76,9 +77,11 @@
         The average low temp for month number 11 is -75.5379746835443.
         The average low temp for month number 12 is -75.99421965317919.
         - Plot the results as a bar chart.
+        
         See Jupyter Notebook file for chart.
     - Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
         - Find the average daily atmospheric pressure of all the months.
+        
         The average pressure for Martian month 1 is 862.5.
         The average pressure for Martian month 2 is 889.5.
         The average pressure for Martian month 3 is 877.3.
@@ -92,10 +95,12 @@
         The average pressure for Martian month 11 is 857.0.
         The average pressure for Martian month 12 is 842.2.
         - Plot the results as a bar chart.
+        
         See Jupyter Notebook file for chart.
     - About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
         - Consider how many days elapse on Earth in the time that Mars circles the Sun once.
         - Visually estimate the result by plotting the daily minimum temperature.
+        
         See Jupyter Notebook file for alternative calculation method (use of mars solar orbit).
         
 6. Export the DataFrame to a CSV file.
